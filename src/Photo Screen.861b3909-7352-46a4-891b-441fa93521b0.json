@@ -1,4 +1,5 @@
 {
+    "id": "861b3909-7352-46a4-891b-441fa93521b0",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -608,7 +609,6 @@
             "name": "Image1"
         }
     ],
-    "id": "861b3909-7352-46a4-891b-441fa93521b0",
     "thunkableVersion": 443,
     "name": "Photo Screen"
 }
